@@ -1,0 +1,27 @@
+.ui.grid.Tikets{
+	background: linear-gradient(to bottom, #0000cc 0%, #0000ff 92%);
+}
+.ui.Tikets1.segment{
+	background: linear-gradient(to bottom, #0000cc 0%, #0066ff 92%);
+	width: 40%;
+	color:wheat;
+	margin-left: 30%;
+	text-align: center;
+}
+.Tikets1 h1{
+	height: 10px;
+}
+.ui.Tikets2.segment{
+	width: 25%;
+	margin-left: 8%;
+	text-align: center;
+	height: 100px;
+	float: left;
+}
+.ui.Tikets3.segment{
+	width: 25%;
+	margin-left: 3%;
+	text-align: center;
+	height: 100px;
+	float: left;
+}
