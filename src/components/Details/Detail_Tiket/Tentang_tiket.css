@@ -4,7 +4,7 @@
 .ui.Tikets1.segment{
 	background: linear-gradient(to bottom, #0000cc 0%, #0066ff 92%);
 	width: 40%;
-	color:wheat;
+	color:rgb(223, 149, 12);
 	margin-left: 30%;
 	text-align: center;
 }
