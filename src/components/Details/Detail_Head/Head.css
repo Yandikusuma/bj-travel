@@ -1,6 +1,8 @@
 .ui.menubar.menu.inverted{
 	background: orangered;
-	height: 70px;
-	color: aliceblue;
+	height: 80px;
 	width: 100%;
+}
+.menubar a{
+	color:white;
 }

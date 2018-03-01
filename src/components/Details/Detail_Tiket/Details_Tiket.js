@@ -1,13 +1,16 @@
 import React, {Component} from 'react';
-import { Grid, GridColumn, GridRow } from 'semantic-ui-react';
+import { 
+	Grid,
+	GridColumn, 
+	GridRow,
+	Segment } from 'semantic-ui-react';
 import './Tentang_tiket.css';
-import Segment from 'semantic-ui-react/dist/commonjs/elements/Segment/Segment';
 
 
 class TentangTiket extends Component{
 	render(){
 		return(
-			<Grid className="Tikets">
+			<Grid className="tikets">
 			 <GridRow>
 				<GridColumn>
 				 <Segment className="Tikets1">
