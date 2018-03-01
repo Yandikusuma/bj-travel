@@ -1,0 +1,11 @@
+.ui.menubar.menu.inverted{
+	background: #ff3300;
+	height: 10px;
+	padding-left: 70px;
+	font-size: 25px;
+	border-radius: 0px;
+}
+
+.menubar a{
+	color: #f2f2f2;
+}
