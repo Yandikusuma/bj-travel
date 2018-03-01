@@ -1,0 +1,59 @@
+.ui.segment.mainTiket{
+	background: #00ccff;
+	margin-left: 20%;
+	margin-top: 40px;
+	width: 60%;
+	height: 215px;
+}
+#Mains{
+	margin-top: 50px;
+}
+
+.ui.selection.dropdown.search{
+	background: #000099;
+	color: black;
+}
+.ui.selection.dropdown.searchto{
+	background: #000099;
+	margin-top: 10px;
+	color: black;	
+}
+
+.ui.input.text{
+	background:#000099;
+}
+
+.mainTiket h1{
+	width: 100%;
+	border-radius: 5px;
+	background: #ff3300;
+	height: 40px;
+	margin-top: 10px;
+}
+.ui.segment.Promotion{
+	background: #00ccff;
+	width:60%;
+	height: 750px;
+	margin-left: 20%;
+	text-align: center;
+	margin-top: 50px;
+	color: aliceblue;
+}
+h1 .Search{
+	font-size: 20px;
+	padding: 2% 46% 2% 40%;
+	color: antiquewhite;
+}
+.mainTiket h1:hover{
+  background: #d63811;
+}
+.ui.segment.Promotion:hover{
+	color: #000099;
+}
+.Promotion p{
+	font-size: 18px;
+	font-weight: normal;
+}
+.Promotion h1{
+	height: 10px;
+}

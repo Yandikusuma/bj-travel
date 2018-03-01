@@ -1,0 +1,47 @@
+.ui.grid.description{
+	margin-top: 30px;
+	background:linear-gradient(to bottom, #0000cc 0%, #0000ff 92%);
+	height: 430px;
+}
+.ui.colomDes.segment{
+	background: linear-gradient(to bottom, #0000cc 0%, #0066ff 92%);
+	border: 0px;
+	height: 350px;
+	width: 45%;
+	margin-left: 10%;
+	padding-left: 40px;
+}
+.colomDes h1{
+	color: antiquewhite;
+}
+.colomDes h5{
+	color: azure;
+	font-size: 20px;
+}
+.colomDes p{
+	color: rgb(255, 255, 255);
+	font-size: 17px;
+	font-weight: normal;
+}
+
+.ui.colomReq.segment{
+	background: #ff6600;
+	height: 120px;
+	width: 80%;
+}
+.ui.menu.contack{
+	background: #ff6600;
+	width: 32%;
+	border: 0px;
+	float: left;
+}
+
+.ui.menu.NumberContact{
+	width: 46%;
+	float: left;
+	margin-left: 50px;
+	background: none;
+	border: 0px;
+
+
+}
