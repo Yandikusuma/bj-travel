@@ -1,0 +1,26 @@
+.ui.CaraPesan.segment{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+}
+.ui.CaraPesan1.segment{
+	width: 40%;
+	float: left;
+	margin-top: 0px;
+	margin-left: 7%;
+}
+.ui.CaraPesan2.segment{
+	width: 40%;
+	clear: both;
+	margin-top: 0px;
+	margin-left: 30%;
+}
+.CaraPesan h1{
+	border-bottom: 1px solid black;
+}
+.CaraPesan1 h1{
+	border-bottom: 1px solid black;
+}
+.CaraPesan2 h1{
+	border-bottom: 1px solid black;
+}

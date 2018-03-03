@@ -1,0 +1,47 @@
+.ui.segment.Footers{
+	background: #00004d;
+	height: 500px;
+	margin-top: 50px;
+	border-radius: 0px;
+}
+.row.Alamat{
+	margin-top: 20px;
+	color: aliceblue;
+	margin-left: 70px;
+	width: 35%;
+	height: 300px;
+	text-align: center;
+	float: left;
+}
+.row.Alamat p{
+	font-weight: normal;
+}
+.row.Layanan{
+	margin-top: 20px;
+	float: left;
+	width: 30%;
+	height: 300px;
+	margin-left: 150px;
+	color: aliceblue;
+	text-align: center;
+}
+.row.Layanan1{
+	margin-top: 20px;
+	width: 30%;
+	height: 200px;
+	margin-left: 35%;
+	color: aliceblue;
+	text-align: center;
+}
+.time.icon{
+	font-size: 40px;
+}
+.Layanan h3{
+  height: 10px;
+}
+.Layanan h4{
+  height: 10px;
+}
+.Layanan p{
+  height: 10px;
+}
