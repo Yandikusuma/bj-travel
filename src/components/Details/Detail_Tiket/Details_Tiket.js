@@ -17,6 +17,7 @@ class TentangTiket extends Component{
 				 </Segment>
 				 <Segment className="Tikets2">
 					<h1>Tarif Harga Tiket Travel</h1>
+					<p>yae</p>
 					
 				 
 				 </Segment>
