@@ -7,8 +7,14 @@ import {
 import './search_tiket.css'
 
 
-const options=[
-	{ key: 'angular', text: 'Angular', value: 'angular' },
+const Berangkat=[
+	{ key: 'Jambi', text: 'Jambi', value: 'Jambi' },
+	{ key: 'Muaro Jambi', text: 'Muaro Jambi', value: 'Muaro Jambi' },
+	{ key: 'Batanghari', text: 'Batanghari', value: 'Batanghari' },
+	{ key: 'Jambi', text: 'Jambi', value: 'Jambi' },
+]
+const Tujuan=[
+	{ key: 'Kerinci', text: 'Kerinci', value: 'Kerinci' },
 ]
 
 class Tiket extends Component {
@@ -17,13 +23,13 @@ class Tiket extends Component {
 			<div id="Mains">
 			<Segment className="mainTiket">
 			 <Dropdown
-				placeholder='Pilih lokasi  keberangkatan' fluid multiple selection options={options} className="search"
+				placeholder='Pilih lokasi  keberangkatan' fluid multiple selection options={Berangkat} className="search"
 				/>
 			 <Dropdown 
-			  placeholder='Pilih lokasi  tujuan' fluid multiple selection options={options} className="searchto"
+			  placeholder='Pilih lokasi  tujuan' fluid multiple selection options={Tujuan} className="searchto"
 			 />
 			 <Dropdown 
-			  placeholder='Tanggal' fluid multiple selection options={options} className="searchto"
+			  placeholder='Tanggal' fluid multiple selection options={Tujuan} className="searchto"
 			 />
 			 <h1>
 			  <a href="../Home_Tiket/Input_Tiket.js" className="Search">Cari Armada</a>
