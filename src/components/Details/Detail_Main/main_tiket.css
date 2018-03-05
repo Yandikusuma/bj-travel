@@ -1,0 +1,10 @@
+.ui.segment.CaraPesan{
+	width: 30%;
+	float: left;
+	margin-top: 0px;
+	margin-left: 2.5%;
+}
+
+.CaraPesan h1{
+	border-bottom: 1px solid black;
+}
