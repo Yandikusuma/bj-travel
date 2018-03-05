@@ -1,12 +1,14 @@
-.ui.grid.Tikets{
+.ui.grid.tikets{
 	background: linear-gradient(to bottom, #0000cc 0%, #0000ff 92%);
+	margin-top: 50px;
 }
 .ui.Tikets1.segment{
 	background: linear-gradient(to bottom, #0000cc 0%, #0066ff 92%);
 	width: 40%;
-	color:wheat;
+	color:rgb(223, 149, 12);
 	margin-left: 30%;
 	text-align: center;
+	margin-top: 30px;
 }
 .Tikets1 h1{
 	height: 10px;

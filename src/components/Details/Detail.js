@@ -6,6 +6,7 @@ import TentangTiket from './Detail_Tiket/Details_Tiket';
 import FromTiket from './Detail_Main/Main_tiket';
 import Footer from './Detail_Ufooter/footer';
 
+
 class DetailTiket extends Component {
 	render(){
 		return(
@@ -15,6 +16,7 @@ class DetailTiket extends Component {
 			 <FromTiket />
 			 <Footer />
 			</Header>
+			
 		)
 	}
 }

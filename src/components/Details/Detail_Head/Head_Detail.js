@@ -6,7 +6,7 @@ class TiketDetail extends Component {
 	render(){
 		return(
 			<Grid>
-			 <Menu  className="menubar" inverted>
+			 <Menu className="menubar" inverted>
 			  <Menu.Item header>
 			   <h1>
 			    <a href="../header/Home.js">BJ-Travel.Com</a>
